@@ -40,24 +40,18 @@ Chaque annonce de particulier est une piste à contacter. Ton travail : **prospe
 
 ---
 
-## 2.3 Ta routine de prospection (chaque matin)
+## 2.3 Ta routine de prospection (chaque matin, sauf le samedi)
 
-La prospection se fait **chaque matin en arrivant**. C'est le rituel non négociable qui remplit le pipe de la journée et des semaines à venir.
+La prospection se fait **chaque matin en arrivant** — **pas le samedi**. C'est le rituel non négociable qui remplit le pipe de la journée et des semaines à venir.
+
+> 🤖 **Tu n'as aucun filtre à régler sur Leboncoin.** BH Tracker **recense automatiquement toutes les voitures mises en vente sur Leboncoin dans un rayon de 30 km autour de Roanne**. Tout est déjà remonté dans l'outil : ton point de départ chaque matin, c'est **BH Tracker**, pas Leboncoin.
 
 ### Le déroulé du matin
 
-1. **Ouvrir BH Tracker** (notre outil de suivi de prospection — voir 2.5).
-2. **Piger Leboncoin** : parcourir les nouvelles annonces de particuliers (≤ 200 000 km) dans notre zone, ainsi que celles qui ont baissé de prix.
-3. **Pour chaque annonce, lancer le bon contact** selon qu'il y a un numéro ou non (voir 2.4).
-4. **Tout tracer dans BH Tracker** au fur et à mesure.
-5. **Traiter les relances du jour** (contacts à rappeler).
-
-### Filtres Leboncoin à utiliser
-
-- **Type de vendeur** : Particulier.
-- **Kilométrage** : jusqu'à 200 000 km.
-- **Localisation** : zone autour de Roanne (à caler avec l'agence).
-- **Recherches enregistrées** : crée-les pour recevoir les nouvelles annonces et ne rien rater chaque matin.
+1. **Ouvrir BH Tracker** : la liste des véhicules à 30 km autour de Roanne est déjà là.
+2. **Traiter les annonces non encore prospectées** : pour chacune, lancer le bon contact selon qu'il y a un numéro ou non (voir 2.4).
+3. **Annoter dans BH Tracker** au fur et à mesure : **date du message de prospection** et toutes les informations recueillies (voir 2.5).
+4. **Traiter les relances du jour** (contacts à rappeler).
 
 ---
 
@@ -86,25 +80,29 @@ On envoie un **message écrit sur Leboncoin**. Voici le **message officiel à ut
 
 ## 2.5 BH Tracker — notre outil de suivi
 
-**Aucun contact ne doit exister uniquement dans ta tête.** Toute la prospection se trace dans **BH Tracker**, notre outil dédié. Il permet de :
+**Aucun contact ne doit exister uniquement dans ta tête.** BH Tracker **recense automatiquement** toutes les annonces dans un rayon de 30 km autour de Roanne, et c'est là que **toute** la prospection se trace. Il permet de :
 
-- suivre **chaque annonce contactée** et son statut ;
+- voir **toutes les voitures** Leboncoin à 30 km, sans aucun filtre à régler ;
 - envoyer les **messages vocaux** (annonces avec numéro) ;
-- savoir **qui relancer et quand** ;
-- éviter de **contacter deux fois** la même annonce.
+- **annoter la date du message de prospection** envoyé ;
+- savoir **qui relancer et quand**, et éviter de **contacter deux fois** la même annonce.
 
-### Les infos à tenir à jour pour chaque piste
+### ⭐ Annote TOUT dans le Tracker
+
+C'est essentiel : chaque information recueillie pendant la prospection doit être **notée dans BH Tracker**, pas gardée en tête. Plus la fiche est riche, plus la relance et le futur RDV seront efficaces. À renseigner systématiquement :
 
 | Info | Exemple |
 |---|---|
-| Date de 1er contact | 25/06/2026 |
+| **Date du message de prospection** | 25/06/2026 |
 | Canal utilisé | Message vocal / Message Leboncoin |
 | Véhicule | Peugeot 308 2018 — 95 000 km |
 | Téléphone (si connu) | 06 xx xx xx xx |
+| **Raison de la vente** | Déménagement / a racheté une autre voiture / naissance… |
+| État / mécanique (ce qu'on apprend) | « Moteur à revoir », « carrosserie nickel »… |
 | Statut | À relancer / Joint / Pas intéressé / RDV / **Mandat signé** |
 | Niveau d'intérêt | Froid / Tiède / Chaud |
 | Prochaine action + date | Rappeler le 02/07 |
-| Notes | « Veut vendre avant août, méfiant, moteur à revoir. » |
+| Notes libres | « Méfiant, a déjà eu des appels de marchands. » |
 
 > 📌 **Règle d'or :** chaque piste doit toujours avoir une **prochaine action datée**. Un contact sans prochaine action = un contact mort. Le suivi des relances dans BH Tracker, c'est là que se signe la majorité des mandats (voir chapitre 5).
 

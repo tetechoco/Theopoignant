@@ -12,9 +12,10 @@ Le particulier travaille souvent. On l'appelle quand il peut décrocher et parle
 |---|---|
 | **12 h – 14 h** | ✅ Bon (pause déjeuner) |
 | **17 h – 20 h** | ✅✅ Excellent (après le travail) |
-| **Samedi 10 h – 12 h / 14 h – 18 h** | ✅✅ Excellent (disponible) |
 | 9 h – 12 h en semaine | ⚠️ Moyen (au travail) |
 | Avant 9 h / après 20 h / dimanche | ⛔ À éviter (intrusif, mauvaise image) |
+
+> 🚫 **Pas de prospection le samedi.** La prospection se fait du lundi au vendredi, chaque matin (voir 2.3).
 
 > 💡 Si tu tombes sur un répondeur ou un mauvais moment, **ce n'est pas un échec** : tu notes et tu reprogrammes. Le bon moment finit toujours par arriver.
 
@@ -89,7 +90,7 @@ Garde cette colonne vertébrale en tête à chaque appel :
 
 ### ④ Action (la prochaine étape concrète)
 
-> « Le mieux, c'est qu'on se voie pour que je regarde la voiture et qu'on **estime ensemble le bon prix de vente**, sans aucun engagement. Vous êtes plutôt disponible **en semaine en fin de journée, ou samedi** ? »
+> « Le mieux, c'est qu'on se voie pour que je regarde la voiture et qu'on **estime ensemble le bon prix de vente**, sans aucun engagement. Vous êtes plutôt disponible **en semaine sur le midi, ou en fin de journée** ? »
 
 ✔️ Toujours fermer sur une **alternative** (« A ou B »), jamais sur un « oui/non ».
 ✔️ Le RDV / l'estimation est l'objectif de l'appel — **pas** de signer au téléphone.

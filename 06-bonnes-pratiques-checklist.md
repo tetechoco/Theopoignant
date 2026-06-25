@@ -45,10 +45,9 @@ Notre métier repose sur la **confiance**. À Roanne, tout se sait. Une mauvaise
 
 ## 6.3 Checklist — Avant de prospecter (le matin)
 
-- [ ] Fichier de suivi ouvert, relances du jour identifiées.
-- [ ] Recherches Leboncoin enregistrées passées en revue (nouvelles annonces + baisses de prix).
-- [ ] Liste de pistes du jour qualifiée (5 à 10 bonnes pistes minimum).
-- [ ] Créneaux d'appels bloqués dans l'agenda (12-14h / 17-20h / samedi).
+- [ ] **BH Tracker ouvert** : nouvelles annonces (≤ 30 km de Roanne) à traiter + relances du jour identifiées.
+- [ ] Annonces non encore prospectées repérées dans le Tracker.
+- [ ] Créneaux d'appels bloqués dans l'agenda (12-14h / 17-20h), du lundi au vendredi — **pas le samedi**.
 - [ ] État d'esprit : souriant, prêt à rendre service, prêt à entendre des « non ».
 
 ## 6.4 Checklist — Avant chaque appel

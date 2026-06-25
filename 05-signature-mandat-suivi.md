@@ -78,7 +78,7 @@ La plupart des vendeurs ne disent pas « oui » au premier contact. **Le suivi e
 
 Le mandat signé n'est pas la fin de ta relation avec le vendeur. C'est le début de sa **satisfaction** — et de tes futures **recommandations**.
 
-- **Tiens-le informé** : « l'annonce est en ligne », « on a eu 3 contacts », « visite prévue samedi ». Un vendeur informé est un vendeur serein qui ne te relance pas, stressé.
+- **Tiens-le informé** : « l'annonce est en ligne », « on a eu 3 contacts », « une visite est prévue ». Un vendeur informé est un vendeur serein qui ne te relance pas, stressé.
 - **Sois le relais** entre lui et l'agence (mais ne promets rien que l'agence ne peut tenir).
 - **Demande des recommandations** : un vendeur content connaît d'autres gens qui vendent. « Vous connaissez quelqu'un qui cherche à vendre sa voiture ? »
 - **Le bouche-à-oreille local** est, à Roanne, un de tes meilleurs canaux de prospection à terme.
