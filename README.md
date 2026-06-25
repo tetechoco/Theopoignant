@@ -26,7 +26,6 @@ Lis-la une première fois en entier, puis garde-la comme référence. Chaque cha
 | **4. Le traitement des objections** | [`04-traitement-objections.md`](04-traitement-objections.md) | Le vendeur dit « non », « trop cher », « je gère moi-même »… |
 | **5. La signature du mandat et le suivi** | [`05-signature-mandat-suivi.md`](05-signature-mandat-suivi.md) | Le vendeur est intéressé : il faut conclure et entretenir. |
 | **6. Bonnes pratiques, déontologie & checklists** | [`06-bonnes-pratiques-checklist.md`](06-bonnes-pratiques-checklist.md) | Au quotidien, pour rester carré et performant. |
-| **7. Indicateurs & suivi d'activité** | [`07-indicateurs-suivi.md`](07-indicateurs-suivi.md) | Tu veux mesurer et améliorer tes résultats. |
 
 ---
 

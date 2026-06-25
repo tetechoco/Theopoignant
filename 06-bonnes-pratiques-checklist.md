@@ -108,4 +108,19 @@ Notre métier repose sur la **confiance**. À Roanne, tout se sait. Une mauvaise
 
 ---
 
-**➡️ Dernier chapitre : [Indicateurs & suivi d'activité](07-indicateurs-suivi.md)**
+## 🏁 Conclusion de la bible
+
+Tu as maintenant tout ce qu'il faut pour **prospecter, contacter, convaincre, signer et suivre**. Retiens l'essentiel :
+
+1. **Comprends ce que tu vends** : de la tranquillité, pas une voiture (ch. 1).
+2. **Prospecte large et chaque matin** : toutes les annonces de particuliers à 30 km, ≤ 200 000 km, via BH Tracker (ch. 2).
+3. **Écoute plus que tu ne parles** au téléphone (ch. 3).
+4. **Accueille les objections**, elles sont le chemin vers le oui (ch. 4).
+5. **Relance** : le business est dans le suivi (ch. 5).
+6. **Reste carré et pro** : ta réputation est ton capital (ch. 6).
+
+> Le reste, c'est du **travail, de la régularité et du téléphone**. Bonne prospection, et bienvenue chez BH CAR Roanne ! 🚗💨
+
+---
+
+**⬅️ Retour au sommaire : [README](README.md)**
