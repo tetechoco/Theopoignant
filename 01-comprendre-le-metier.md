@@ -54,7 +54,7 @@ C'est ce qui nous distingue d'une vente entre particuliers **et** d'un simple d�
 ## 1.4 Le vocabulaire à maîtriser
 
 - **Mandat** : le contrat par lequel le vendeur nous confie la vente. C'est notre « stock ». Notre objectif n°1.
-- **Mandat simple / exclusif** : exclusif = nous seuls vendons le véhicule (plus de sécurité pour nous, à valoriser). Simple = le vendeur peut aussi vendre de son côté.
+- **Mandat exclusif** : chez BH CAR, on travaille **uniquement en mandat exclusif** — nous seuls vendons le véhicule pendant la durée du mandat (2 mois), et le vendeur retire ses propres annonces. C'est la condition pour bien faire notre travail et défendre un prix cohérent.
 - **Commission / honoraires** : notre rémunération sur la vente.
 - **Estimation / cote** : la valeur marché du véhicule (Argus, observation des annonces comparables…).
 - **Lead** : un contact / une piste (ici, une annonce Leboncoin pertinente).
