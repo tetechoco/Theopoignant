@@ -1,6 +1,6 @@
 # Chapitre 2 — La prospection sur Leboncoin
 
-> **La pige, c'est 50 % du résultat.** Bien cibler, c'est appeler moins pour signer plus. Mal cibler, c'est s'épuiser sur des pistes sans valeur. Ce chapitre t'apprend à transformer Leboncoin en machine à mandats.
+> **La prospection, c'est notre gagne-pain.** Sans mandats, pas de stock ; sans stock, pas de chiffre. Elle se fait **chaque matin en arrivant au travail**, sans exception. Ce chapitre t'explique quoi prospecter et comment t'organiser.
 
 ---
 
@@ -8,91 +8,105 @@
 
 Sur Leboncoin, un particulier qui met sa voiture en vente est, par définition, **un vendeur**. C'est exactement notre cible. Notre angle est simple :
 
-> _« Vous vendez votre voiture vous-même ? Et si on la vendait pour vous, plus vite, plus sereinement, au bon prix ? »_
+> _« Vous vendez votre voiture vous-même ? Et si on la vendait pour vous, sereinement et au bon prix, sans que vous ayez à gérer quoi que ce soit ? »_
 
-Chaque annonce de particulier est une piste potentielle. Ton travail : **repérer les bonnes**, les **qualifier**, puis les **contacter**.
-
----
-
-## 2.2 Le ciblage : à quoi reconnaît-on une bonne piste ?
-
-Tu ne peux pas tout appeler. Priorise. Une bonne piste réunit plusieurs critères :
-
-### ✅ Les signaux « bonne piste »
-
-- **Vendeur particulier** (pas « pro » / pas un autre garage). Repère la mention du compte.
-- **Zone géographique** cohérente avec Roanne et ses environs (42, et limitrophes selon la politique agence). Plus c'est proche, mieux c'est pour une visite/estimation.
-- **Véhicule qui se revend bien** : marque/modèle demandés, kilométrage cohérent, état correct, gamme de prix qui correspond à notre clientèle.
-- **Annonce qui « traîne »** : en ligne depuis plusieurs semaines, prix baissé une ou deux fois (= vendeur qui galère, donc réceptif).
-- **Annonce de qualité moyenne** : photos amateurs, description courte, prix mal positionné → le vendeur a clairement besoin d'un pro.
-- **Plusieurs véhicules** mis en vente par la même personne (succession, déménagement, etc.).
-
-### ⛔ Les signaux « à éviter ou déprioriser »
-
-- Annonce **« professionnel »** (concurrent — sauf consigne contraire de l'agence).
-- Véhicule **hors de notre marché** (trop ancien/épave, exotique invendable, prix aberrant).
-- Zone **trop éloignée** sans intérêt particulier.
-- Annonce postée **il y a 1 heure** : le vendeur est encore en pleine euphorie « je vais le vendre seul facilement ». Souvent plus dur à convaincre que celui qui galère depuis 3 semaines. (Note-le, recontacte plus tard.)
-
-> 💡 **Le tempo idéal :** l'annonce de **2 à 6 semaines**, surtout après une **baisse de prix**. Le vendeur commence à fatiguer mais n'a pas encore vendu. C'est ta fenêtre de tir.
+Chaque annonce de particulier est une piste à contacter. Ton travail : **prospecter chaque annonce**, la **tracer dans BH Tracker**, puis assurer le **suivi** jusqu'au mandat.
 
 ---
 
-## 2.3 Organiser ta pige (méthode de travail)
+## 2.2 Quoi prospecter : (presque) toutes les annonces
 
-La prospection ne s'improvise pas. Structure tes journées.
+> **Il n'y a pas de tri compliqué à faire : on prospecte large.** Notre force, c'est que nous avons **notre propre atelier mécanique**. On peut donc revendre **tout type de véhicule**, même abîmé ou en panne. Là où un concurrent dirait « celle-là est invendable », nous on dit « celle-là, on la répare et on la vend ». **Chaque voiture peut apporter du business.**
 
-### Routine quotidienne suggérée
+### Les 2 seuls vrais critères
 
-1. **Session de pige (matin)** : parcourir les nouvelles annonces + celles qui ont baissé de prix. Constituer une **liste de pistes du jour**.
-2. **Qualification** : pour chaque piste, noter l'essentiel dans le fichier de suivi (voir 2.5).
-3. **Sessions d'appels** : sur les créneaux où les gens décrochent (voir chapitre 3). On n'appelle pas en continu : on bloque des plages.
-4. **Relances** : traiter les contacts « à rappeler » du jour.
-5. **Mise à jour du fichier** : à chaud, jamais « plus tard ».
+1. ✅ **Vendeur particulier.** On ne démarche **que les particuliers**, jamais les annonces « professionnel » (ce sont des concurrents).
+2. ✅ **Kilométrage jusqu'à 200 000 km.** C'est notre limite haute. En-dessous de 200 000 km, **on prospecte l'annonce**, quel que soit le modèle, l'année, l'état ou le prix.
+
+### Ce qu'on prospecte AUSSI (et que les autres laissent passer)
+
+- 🔧 **Véhicules avec problème moteur** → on envoie quand même un message.
+- 🚫 **Véhicules non roulants / en panne** → on envoie quand même un message.
+- 🪨 Voiture cabossée, à réviser, à réparer → **on contacte**.
+
+> 💡 **Pourquoi ?** Parce que la mécanique est **chez nous**. Un véhicule en panne pour le particulier (qui ne saura pas le vendre) est une **opportunité** pour nous : on le remet en état et on le vend. Ne te prive jamais d'un contact sous prétexte que « la voiture a un souci ».
+
+### Ce qu'on ne prospecte pas
+
+- ⛔ Annonces **« professionnel »** (concurrents).
+- ⛔ Véhicules **au-delà de 200 000 km**.
+
+> 🎯 **L'état d'esprit :** dans le doute, on contacte. Le volume de contacts est le moteur de notre activité.
+
+---
+
+## 2.3 Ta routine de prospection (chaque matin)
+
+La prospection se fait **chaque matin en arrivant**. C'est le rituel non négociable qui remplit le pipe de la journée et des semaines à venir.
+
+### Le déroulé du matin
+
+1. **Ouvrir BH Tracker** (notre outil de suivi de prospection — voir 2.5).
+2. **Piger Leboncoin** : parcourir les nouvelles annonces de particuliers (≤ 200 000 km) dans notre zone, ainsi que celles qui ont baissé de prix.
+3. **Pour chaque annonce, lancer le bon contact** selon qu'il y a un numéro ou non (voir 2.4).
+4. **Tout tracer dans BH Tracker** au fur et à mesure.
+5. **Traiter les relances du jour** (contacts à rappeler).
 
 ### Filtres Leboncoin à utiliser
 
 - **Type de vendeur** : Particulier.
-- **Localisation** : rayon autour de Roanne (à définir avec l'agence).
-- **Tri** : par date récente **et**, en parallèle, surveiller les annonces plus anciennes.
-- **Sauvegarde de recherches** : crée des recherches enregistrées pour recevoir les nouvelles annonces et ne rien rater.
+- **Kilométrage** : jusqu'à 200 000 km.
+- **Localisation** : zone autour de Roanne (à caler avec l'agence).
+- **Recherches enregistrées** : crée-les pour recevoir les nouvelles annonces et ne rien rater chaque matin.
 
 ---
 
-## 2.4 Lire une annonce comme un pro
+## 2.4 Les deux canaux de premier contact
 
-Avant d'appeler, **analyse l'annonce** : ça te donne tes munitions et ça te fait gagner en crédibilité.
+Selon que l'annonce affiche ou non un numéro de téléphone, on n'utilise **pas le même canal**. BH Tracker gère les deux.
 
-| Ce que tu regardes | Ce que ça t'apprend |
-|---|---|
-| **Prix demandé vs cote marché** | Surévalué (le vendeur va galérer → argument fort) ou bien placé. |
-| **Date de mise en ligne / baisses de prix** | Son niveau d'« usure » et de motivation. |
-| **Qualité des photos / description** | S'il a besoin d'un pro pour mieux présenter le véhicule. |
-| **Kilométrage, année, options, entretien** | Si le véhicule entre dans notre cible. |
-| **Le « pourquoi » de la vente** (parfois écrit) | Déménagement, naissance, achat d'un autre véhicule = urgence = motivation. |
+### ① L'annonce affiche un numéro de téléphone → **message vocal**
 
-> 🎯 Quand tu appelles, tu dois pouvoir dire **le modèle exact et un détail précis** de SON annonce. Ça prouve que tu n'es pas un robot qui spamme : _« Bonjour, je vous appelle pour votre Peugeot 308 grise de 2018 affichée à 12 500 € sur Leboncoin… »_
+On envoie un **message vocal** via **BH Tracker**. C'est plus direct, plus humain, et ça prépare le rappel.
+
+### ② L'annonce n'affiche PAS de numéro → **message Leboncoin**
+
+On envoie un **message écrit sur Leboncoin**. Voici le **message officiel à utiliser** :
+
+> Bonjour,
+> Je me permets de vous contacter au sujet de votre véhicule. J'aimerais pouvoir échanger quelques minutes avec vous lorsque vous serez disponible.
+> Vous pouvez me rappeler au **06 60 36 02 18** ou me communiquer votre numéro, et je vous recontacterai.
+> À bientôt,
+> Cléo
+> BH CAR Roanne
+
+> 📌 Ce message est **court, poli et ouvert** : il ne « vend » rien tout de suite, il crée juste le contact. Le vrai échange se fera au téléphone (voir chapitre 3).
 
 ---
 
-## 2.5 Le fichier de suivi (CRM) — ton outil n°1
+## 2.5 BH Tracker — notre outil de suivi
 
-**Aucun contact ne doit exister uniquement dans ta tête.** Que ce soit un CRM dédié, un Google Sheets ou un fichier Excel partagé, chaque piste a sa ligne. Colonnes recommandées :
+**Aucun contact ne doit exister uniquement dans ta tête.** Toute la prospection se trace dans **BH Tracker**, notre outil dédié. Il permet de :
 
-| Colonne | Exemple |
+- suivre **chaque annonce contactée** et son statut ;
+- envoyer les **messages vocaux** (annonces avec numéro) ;
+- savoir **qui relancer et quand** ;
+- éviter de **contacter deux fois** la même annonce.
+
+### Les infos à tenir à jour pour chaque piste
+
+| Info | Exemple |
 |---|---|
 | Date de 1er contact | 25/06/2026 |
-| Nom / prénom (si connu) | M. Dupont |
-| Téléphone | 06 xx xx xx xx |
+| Canal utilisé | Message vocal / Message Leboncoin |
 | Véhicule | Peugeot 308 2018 — 95 000 km |
-| Prix annonce | 12 500 € |
-| Lien annonce | (URL) |
-| Statut | À appeler / Rappelé / Pas intéressé / RDV / **Mandat signé** |
+| Téléphone (si connu) | 06 xx xx xx xx |
+| Statut | À relancer / Joint / Pas intéressé / RDV / **Mandat signé** |
 | Niveau d'intérêt | Froid / Tiède / Chaud |
 | Prochaine action + date | Rappeler le 02/07 |
-| Notes | « Veut vendre avant août, a déjà eu 2 appels de marchands, méfiant. » |
+| Notes | « Veut vendre avant août, méfiant, moteur à revoir. » |
 
-> 📌 **Règle d'or :** chaque ligne doit toujours avoir une **prochaine action datée**. Un contact sans prochaine action = un contact mort. Le suivi des relances, c'est là que se signe la majorité des mandats (voir chapitre 5).
+> 📌 **Règle d'or :** chaque piste doit toujours avoir une **prochaine action datée**. Un contact sans prochaine action = un contact mort. Le suivi des relances dans BH Tracker, c'est là que se signe la majorité des mandats (voir chapitre 5).
 
 ---
 
@@ -100,10 +114,10 @@ Avant d'appeler, **analyse l'annonce** : ça te donne tes munitions et ça te fa
 
 La prospection est encadrée. Le non-respect peut coûter cher à l'entreprise et à toi.
 
-- **Numéros affichés sur Leboncoin** : tu peux contacter un particulier pour une proposition **en lien avec son annonce** (il s'est exposé pour être contacté à ce sujet). Reste **strictement dans le cadre de son annonce de vente**.
-- **Conservation des données** : tu peux noter les infos utiles au suivi, mais elles servent **uniquement** à la prospection BH CAR, ne sont pas partagées à l'extérieur, et sont supprimées quand la piste est morte.
-- **Liste d'opposition** : si une personne demande à ne plus être contactée, tu **notes « NE PAS RAPPELER »** et tu respectes. Toujours. (Voir Bloctel pour le démarchage téléphonique — chapitre 6.)
-- **Règles Leboncoin** : pas de spam de messages identiques en masse, pas de faux comptes, pas de contournement. On joue franc-jeu.
+- **Contact en lien avec l'annonce** : tu contactes un particulier **au sujet de son annonce de vente** (il s'est rendu joignable pour ça). Reste **strictement dans ce cadre**.
+- **Conservation des données** : les infos notées dans BH Tracker servent **uniquement** à la prospection BH CAR, ne sont pas partagées à l'extérieur, et sont supprimées quand la piste est morte.
+- **Liste d'opposition** : si une personne demande à ne plus être contactée, tu **notes « NE PAS RAPPELER »** dans BH Tracker et tu respectes. Toujours. (Voir Bloctel — chapitre 6.)
+- **Règles Leboncoin** : on utilise le message officiel, mais on évite l'envoi mécanique en rafale qui pourrait être vu comme du spam ; pas de faux comptes, pas de contournement. On joue franc-jeu.
 - **Pas de harcèlement** : un « non » clair = on arrête. Relancer ≠ harceler (voir cadence de relance, chapitre 5).
 
 > ⚠️ En cas de doute sur la légalité d'une pratique : **demande avant d'agir**. La réputation de BH CAR Roanne sur le bassin roannais est un capital qu'un seul mauvais comportement peut entamer.

@@ -49,7 +49,7 @@ Ta prospection est un **entonnoir** : beaucoup de pistes en haut, peu de mandats
 
 ## 7.3 Exemple de tableau de bord hebdomadaire
 
-À tenir dans ton fichier de suivi (un onglet « stats »). Exemple de structure :
+À suivre dans BH Tracker (ou un onglet « stats » dédié). Exemple de structure :
 
 | Semaine | Pistes | Appels | Joints | RDV | Mandats | Relances | Tx joint. | Tx mandat |
 |---|---|---|---|---|---|---|---|---|

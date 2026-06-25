@@ -21,7 +21,7 @@ Lis-la une première fois en entier, puis garde-la comme référence. Chaque cha
 | Chapitre | Fichier | À lire quand… |
 |---|---|---|
 | **1. Comprendre le métier et notre offre** | [`01-comprendre-le-metier.md`](01-comprendre-le-metier.md) | Tu démarres : tu dois maîtriser ce que tu vends avant de prospecter. |
-| **2. La prospection sur Leboncoin** | [`02-prospection-leboncoin.md`](02-prospection-leboncoin.md) | Tu cherches des annonces à contacter et tu veux cibler juste. |
+| **2. La prospection sur Leboncoin** | [`02-prospection-leboncoin.md`](02-prospection-leboncoin.md) | Tu veux savoir quelles annonces contacter, par quel canal, et comment t'organiser chaque matin. |
 | **3. La prise de contact et les scripts** | [`03-prise-de-contact-scripts.md`](03-prise-de-contact-scripts.md) | Tu vas appeler ou écrire à un vendeur. |
 | **4. Le traitement des objections** | [`04-traitement-objections.md`](04-traitement-objections.md) | Le vendeur dit « non », « trop cher », « je gère moi-même »… |
 | **5. La signature du mandat et le suivi** | [`05-signature-mandat-suivi.md`](05-signature-mandat-suivi.md) | Le vendeur est intéressé : il faut conclure et entretenir. |
@@ -33,10 +33,10 @@ Lis-la une première fois en entier, puis garde-la comme référence. Chaque cha
 ## Les 5 règles d'or (à connaître par cœur)
 
 1. **On ne vend pas une voiture, on vend une tranquillité d'esprit.** Le vendeur particulier perd du temps, prend des risques et galère. Nous, on lui retirons tout ça des épaules.
-2. **La prospection est un jeu de volume ET de qualité.** Beaucoup d'appels, mais bien ciblés et bien menés.
+2. **La prospection est notre gagne-pain, et elle se fait chaque matin.** On contacte large : **toutes** les annonces de **particuliers** jusqu'à **200 000 km**, même les véhicules en panne (on a l'atelier pour les réparer). Du volume, bien mené.
 3. **Le « non » fait partie du métier.** Il n'est presque jamais définitif. Un « non » aujourd'hui est un « peut-être » dans trois semaines, quand le vendeur en aura marre.
 4. **On est des professionnels, jamais des harceleurs.** Respect du cadre légal, du RGPD et des règles de Leboncoin. Notre réputation locale est notre meilleur actif.
-5. **Tout se note.** Un contact non tracé est un contact perdu. Le fichier de suivi est ton meilleur ami.
+5. **Tout se note.** Un contact non tracé est un contact perdu. **BH Tracker** est ton meilleur ami.
 
 ---
 

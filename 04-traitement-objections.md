@@ -31,7 +31,7 @@ Pour **toute** objection, applique cette mécanique. Ne la saute jamais, surtout
 
 ### ③ « J'ai déjà des acheteurs intéressés »
 
-> « C'est super, ça prouve que la voiture plaît ! Combien sont **vraiment** venus la voir, chéquier en main ? Souvent il y a beaucoup de "intéressés" et peu de concrets… Si jamais ça ne se conclut pas dans les prochains jours, gardez mon numéro : on peut la vendre **rapidement** et sereinement. Je vous envoie mes coordonnées ? »
+> « C'est super, ça prouve que la voiture plaît ! Combien sont **vraiment** venus la voir, chéquier en main ? Souvent il y a beaucoup de "intéressés" et peu de concrets… Si jamais ça ne se conclut pas, gardez mon numéro : on peut s'en occuper **sereinement**, sans que vous ayez à gérer les appels et les visites. Je vous envoie mes coordonnées ? »
 
 ### ④ « C'est trop compliqué / je n'ai pas confiance / je ne connais pas »
 

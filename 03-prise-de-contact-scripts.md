@@ -67,13 +67,23 @@ Garde cette colonne vertébrale en tête à chaque appel :
 >
 > « Vous êtes pressé de la vendre, ou vous avez le temps ? »
 
-🎯 **Objectif :** identifier **SA galère** (temps perdu, appels pénibles, ça ne part pas, il est pressé). C'est ce que tu vas soulager.
+**Puis on s'intéresse au véhicule** (ces infos sont essentielles pour l'estimer et préparer la suite) :
+
+> « Vous l'avez depuis combien de temps ? Vous avez le **carnet et l'historique d'entretien** (révisions, courroie de distribution, etc.) ? »
+>
+> « Le **dernier contrôle technique**, il date de quand, et il y avait des **points / défauts** signalés ? »
+>
+> « La **carrosserie** est dans quel état — des rayures, des chocs, de la rouille ? »
+>
+> « Côté **mécanique**, tout fonctionne bien, ou il y a des choses à prévoir (voyant, bruit, fuite…) ? »
+
+🎯 **Objectif :** identifier **SA galère** (temps perdu, appels pénibles, ça ne part pas, il est pressé) **et** dresser un premier état du véhicule. Et rappelle-toi : même un véhicule **en panne ou avec un souci moteur nous intéresse** — on a l'atelier pour le réparer. Donc pas de panique si le vendeur signale un problème : c'est une **bonne nouvelle pour nous**.
 
 ### ③ Présentation de notre service (en réponse à SA situation)
 
 > « Je comprends. Justement, c'est exactement ce qu'on fait chez BH CAR : on **vend votre voiture à votre place**. Concrètement : on s'occupe de **toute la diffusion de l'annonce, des appels, des visites et des essais** — vous ne recevez plus aucun appel — et surtout on **sécurise le paiement et toute la partie administrative**. »
 >
-> « Et comme on propose une **garantie** et des **solutions de financement** aux acheteurs, votre voiture intéresse **beaucoup plus de monde** et se vend généralement **plus vite et au bon prix**. »
+> « Et comme on propose une **garantie** et des **solutions de financement** aux acheteurs, votre voiture intéresse **beaucoup plus de monde** et se vend **au bon prix**. »
 >
 > « Vous, de votre côté, vous ne faites plus rien : vous touchez votre prix, et nous, on se rémunère uniquement **quand la vente est faite**, via une commission. »
 
@@ -86,18 +96,25 @@ Garde cette colonne vertébrale en tête à chaque appel :
 
 ---
 
-## 3.5 Script SMS / message Leboncoin (court, personnalisé)
+## 3.5 Message Leboncoin (annonces sans numéro de téléphone)
 
-> Bonjour, **[Prénom]** de **BH CAR Roanne**. J'ai vu votre **[modèle]** en vente sur Leboncoin. On propose de **vendre votre véhicule à votre place** (annonce, visites, paiement sécurisé, administratif — vous n'avez rien à gérer) et on se rémunère uniquement à la vente. Seriez-vous ouvert à en discuter 2 min par téléphone ? Bonne journée 🙂
+Quand l'annonce **n'affiche pas de numéro**, on envoie le **message officiel BH CAR** sur Leboncoin (cf. chapitre 2.4) :
 
-✔️ Court, clair, personnalisé (modèle), call-to-action simple.
-⛔ Jamais de copier-coller massif identique → spam = mauvaise image + risque Leboncoin.
+> Bonjour,
+> Je me permets de vous contacter au sujet de votre véhicule. J'aimerais pouvoir échanger quelques minutes avec vous lorsque vous serez disponible.
+> Vous pouvez me rappeler au **06 60 36 02 18** ou me communiquer votre numéro, et je vous recontacterai.
+> À bientôt,
+> Cléo
+> BH CAR Roanne
+
+✔️ Court, poli, ouvert : il crée le contact, le vrai échange se fait au téléphone.
+✔️ Pour les annonces **avec** numéro, on n'envoie pas ce message : on passe par un **message vocal via BH Tracker** (cf. 2.4).
 
 ---
 
 ## 3.6 Message répondeur (si tu tombes sur la messagerie)
 
-> « Bonjour, **[Prénom Nom]** de **BH CAR à Roanne**, au sujet de votre **[modèle]** sur Leboncoin. J'aurais une proposition pour vous aider à la vendre plus rapidement. Je vous rappelle, ou vous pouvez me joindre au **[numéro]**. Belle journée ! »
+> « Bonjour, **[Prénom Nom]** de **BH CAR à Roanne**, au sujet de votre **[modèle]** sur Leboncoin. J'aurais une proposition pour vous la vendre à votre place, sans que vous ayez à gérer les appels et les visites. Je vous rappelle, ou vous pouvez me joindre au **06 60 36 02 18**. Belle journée ! »
 
 > 💡 Laisse toujours un message : ça prépare ton rappel. Quand tu rappelleras, il saura déjà qui tu es.
 
@@ -114,7 +131,7 @@ Garde cette colonne vertébrale en tête à chaque appel :
 7. **Ne mens jamais** et ne promets jamais ce que tu ne maîtrises pas (prix, délai).
 8. **Garde le contrôle par les questions**, pas par le monologue.
 9. **Termine toujours par une prochaine étape datée**, même si c'est « je vous rappelle vendredi ».
-10. **Note tout** dans le fichier de suivi, immédiatement après l'appel.
+10. **Note tout** dans BH Tracker, immédiatement après l'appel.
 
 ---
 

@@ -40,7 +40,7 @@ Un particulier qui vend seul sur Leboncoin affronte **5 grandes galères**. Ton 
 
 ## 1.3 Nos services complémentaires (notre vraie différence)
 
-C'est ce qui nous distingue d'une vente entre particuliers **et** d'un simple dépôt-vente low-cost. Ces services rassurent l'**acheteur** (donc la voiture se vend plus vite et mieux), ce qui sert directement l'intérêt du **vendeur**.
+C'est ce qui nous distingue d'une vente entre particuliers **et** d'un simple dépôt-vente low-cost. Ces services rassurent l'**acheteur** (donc la voiture intéresse plus de monde et se vend au bon prix), ce qui sert directement l'intérêt du **vendeur**.
 
 - 🛡️ **Garantie mécanique** (selon durée/formule) → l'acheteur achète serein.
 - 💳 **Financement / crédit** → on élargit le nombre d'acheteurs potentiels (ceux qui n'ont pas la somme cash).

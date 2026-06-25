@@ -19,7 +19,7 @@ L'appel sert à décrocher un **rendez-vous** (physique ou estimation). C'est l�
 2. **Valoriser le véhicule** sincèrement (points forts) puis **objectiver** les points faibles → crédibilité.
 3. **Présenter l'estimation** et **expliquer** comment on arrive à ce prix (transparence).
 4. **Dérouler le service** en répondant à SA situation (revoir chapitre 1.2).
-5. **Présenter le mandat** clairement : commission, durée, ce qu'on fait, ce qu'il signe.
+5. **Présenter le mandat** clairement : commission, **durée de 2 mois**, ce qu'on fait, ce qu'il signe, et son **obligation de retirer ses propres annonces** (voir 5.2).
 6. **Lever les dernières objections** (chapitre 4).
 7. **Faire signer** (voir 5.2).
 
@@ -31,14 +31,20 @@ L'appel sert à décrocher un **rendez-vous** (physique ou estimation). C'est l�
 
 La conclusion n'est pas un moment magique : c'est la **suite logique** d'un bon entretien. Quelques techniques simples et honnêtes :
 
-- **La conclusion directe** : « On est d'accord sur le principe et le prix ? Parfait, on signe le mandat et je lance la mise en vente dès aujourd'hui. »
-- **La conclusion alternative** : « Vous préférez un mandat sur **2 mois** ou **3 mois** ? » (on fait choisir le *comment*, pas le *si*).
-- **La projection** : « Dès que c'est signé, je prépare les photos pro et l'annonce part dans la foulée. On peut avoir des visites **dès cette semaine**. »
+- **La conclusion directe** : « On est d'accord sur le principe et le prix ? Parfait, on signe le mandat et je lance la mise en vente. »
 - **Lever le dernier frein** : « Qu'est-ce qui vous empêche de vous lancer aujourd'hui ? » → tu traites, puis tu reviens à la signature.
 
-> 📝 **Le mandat se signe en RDV, jamais à l'arrache.** Le vendeur doit comprendre **chaque ligne** : commission, durée, exclusivité ou non, prix de vente convenu. Un vendeur qui signe sans comprendre = un litige plus tard. **La clarté protège tout le monde.**
+> ⛔ **Pas de projection sur le délai de vente.** On ne dit **jamais** « ça partira en X jours / X semaines », ni « vous aurez des visites dès cette semaine ». Aucune promesse de délai : on ne maîtrise pas le marché, et une promesse non tenue détruit la confiance. On vend du **sérieux** et de la **tranquillité**, pas une date.
 
-> 👉 **À voir avec ton tuteur :** quel mandat-type utilise l'agence, sa durée, les mentions obligatoires, qui valide/contresigne. Ne fais jamais signer un document que tu ne maîtrises pas.
+### Les règles du mandat BH CAR (à connaître par cœur)
+
+- 📅 **Durée : 2 mois.** C'est fixe. Le vendeur **n'a pas le choix** de la durée — ce n'est pas une variable de négociation. On la présente comme la norme de la maison.
+- 🗑️ **Obligation pour le vendeur de retirer ses propres annonces** (notamment son annonce Leboncoin en particulier) une fois le mandat signé. C'est nous qui diffusons désormais : deux annonces concurrentes nuiraient à la vente et à la cohérence de prix.
+- 💶 **Commission** : claire et expliquée. _(Barème à confirmer avec l'agence.)_
+
+> 📝 **Le mandat se signe en RDV, jamais à l'arrache.** Le vendeur doit comprendre **chaque ligne** : commission, durée de 2 mois, retrait de ses annonces, prix de vente convenu. Un vendeur qui signe sans comprendre = un litige plus tard. **La clarté protège tout le monde.**
+
+> 👉 **À voir avec ton tuteur :** le mandat-type exact de l'agence, ses mentions obligatoires, qui valide/contresigne. Ne fais jamais signer un document que tu ne maîtrises pas.
 
 ---
 
@@ -64,7 +70,7 @@ La plupart des vendeurs ne disent pas « oui » au premier contact. **Le suivi e
 - **Espacer** les relances (pas 3 appels dans la semaine).
 - **Varier les canaux** (appel → SMS → appel).
 - **S'arrêter** dès qu'un « non » devient ferme.
-- **Tout dater** dans le fichier de suivi : prochaine relance = toujours planifiée.
+- **Tout dater** dans BH Tracker : prochaine relance = toujours planifiée.
 
 ---
 

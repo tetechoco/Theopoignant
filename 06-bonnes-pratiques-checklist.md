@@ -14,7 +14,6 @@ Notre métier repose sur la **confiance**. À Roanne, tout se sait. Une mauvaise
 - ✅ **Respect du vendeur** : pas de pression abusive, pas de dénigrement, pas de mensonge.
 - ✅ **Respect des concurrents** : on ne les dénigre pas, on montre notre différence.
 - ⛔ **Jamais** se faire passer pour un acheteur particulier pour racheter au rabais.
-- ⛔ **Jamais** sous-estimer volontairement un véhicule pour gonfler la marge.
 
 ---
 
